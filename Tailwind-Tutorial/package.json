@@ -1,0 +1,26 @@
+{
+  "name": "tailwind_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skwak0205/Tailwind-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skwak0205/Tailwind-Tutorial/issues"
+  },
+  "homepage": "https://github.com/skwak0205/Tailwind-Tutorial#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4",
+    "vite": "^2.3.8"
+  }
+}

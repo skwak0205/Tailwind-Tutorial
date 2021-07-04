@@ -1,0 +1,10 @@
+.hello {
+  color: red;
+}
+
+/*  npx tailwindcss-cli build css/tailwind.css -o build/tailwind.css 필요 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Generate config files : npx tailwindcss init -p */
