@@ -7,7 +7,6 @@
 /css
 .vscode
 .DS_Store
-index.html
 yarn.lock
 yarn-error.log
 types/generated/*.d.ts
